@@ -1,10 +1,11 @@
 main {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 30px;
-  background-size: cover;
-  height: 800px;
+  /* margin-bottom: 30px; */
+  /* background-size: cover; */
+  height: 95vh;
   width: auto;
   align-content: flex-start;
   position: relative;
+  /* background: fixed, no-repeat; */
 }
